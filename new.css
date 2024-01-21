@@ -331,7 +331,6 @@ ul li a:hover {
 
 .info h2 {
     color: rgba(255, 100, 10, 0.938);
-    ;
     font-size: 2.5rem;
     font-weight: bold;
 }
@@ -346,16 +345,16 @@ ul li a:hover {
     font-weight: bold;
     color: black;
     border-bottom: 2px solid rgba(255, 100, 10, 0.938);
-    ;
+
     width: 6rem;
 }
 
 .info a:hover {
     border-bottom: 2px solid rgb(0, 0, 0);
     color: rgba(255, 100, 10, 0.938);
-    ;
+
     box-shadow: 0px 4px 4px rgba(255, 100, 10, 0.938);
-    ;
+
 }
 
 .contact {
@@ -381,7 +380,7 @@ ul li a:hover {
 
 .c-info h1 {
     color: rgba(255, 100, 10, 0.938);
-    ;
+    
     font-size: 3rem;
     font-weight: bold;
 }
@@ -396,7 +395,6 @@ ul li a:hover {
 .c-info input:hover,
 .c-info textarea:hover {
     border: 2px solid rgba(255, 100, 10, 0.938);
-    ;
 }
 
 .c-info textarea {
@@ -410,7 +408,6 @@ ul li a:hover {
     width: 6rem;
     height: 2rem;
     background-color: rgba(255, 100, 10, 0.938);
-    ;
     border-radius: 10px;
     border: none;
 }
@@ -420,7 +417,6 @@ ul li a:hover {
     align-items: center;
     justify-content: center;
     background-color: rgba(255, 100, 10, 0.938);
-    ;
     width: 100vw;
     height: 3rem;
     border-top: 2px solid black;
